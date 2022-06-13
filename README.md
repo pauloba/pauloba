@@ -1,4 +1,4 @@
-### Hi there! 🏴‍☠️👾
+### Hi there! 🏴‍☠️
 I am Paula, a Cloud engineer currently living in the sunny Barcelona.
 
 - 🤓 From time to time I answer Stackoverflow questions 
