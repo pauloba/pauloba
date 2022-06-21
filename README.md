@@ -1,7 +1,7 @@
 ### Hi there! 🏴‍☠️
 I am Paula, a Cloud engineer currently living in the sunny Barcelona.
 
-<img align="right" alt="GIF" height="160px" src="https://github.com/pauloba/pauloba/blob/main/octogata.png" />
+<img align="right" alt="GIF" height="360px" src="https://github.com/pauloba/pauloba/blob/main/octogata.png" />
 
 - 🤓 From time to time I answer Stackoverflow questions 
   - <a href="https://stackoverflow.com/users/3009085/shibboleet">https://stackoverflow.com/users/3009085/shibboleet</a>
