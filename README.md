@@ -7,9 +7,9 @@
 - ⚁ I am currently living 
   - in the sunny Barcelona.
 - ⚂ From time to time I answer Stackoverflow questions
-  - <a href="https://stackoverflow.com/users/3009085/pauloba">https://stackoverflow.com/users/3009085/pauloba</a>
+  - <a href="https://stackoverflow.com/users/3009085/pauloba">www.stackoverflow.com/users/3009085/pauloba</a>
 - ⚃ I ocasionally play around with digital art
-  - <a href="https://pauloba.github.io/art.html">www.pauloba.github.io/art.html</a>
+  - <a href="https://pauloba.github.io/art.html">wallpapers</a>
 - ⚄ If you are interested in my career, my resume is available here
   - <a href="https://pauloba.github.io">www.pauloba.github.io</a>
 - ⚅ If you want to contact me, you can use
