@@ -1,11 +1,11 @@
 ### Hi there! 🏴‍☠️
-I am Paula, a Cloud engineer currently living in the sunny Barcelona.
+I am Paula, a Cloud engineer currently living in the sunny Barcelona. <br>
 
-<img align="right" alt="GIF" height="360px" src="https://github.com/pauloba/pauloba/blob/main/octogata.png" />
+<img src="https://github.com/pauloba/pauloba/blob/main/octogata.png" alt="kubernoia" style="width:50%;">
 
-- ⚀ From time to time I answer Stackoverflow questions 
-  - <a href="https://stackoverflow.com/users/3009085/pauloba">https://stackoverflow.com/users/3009085/pauloba</a>
-- ⚁ If you are interested in my career, my resume is available here 
-  - <a href="https://pauloba.github.io">https://pauloba.github.io</a>
-- ⚂ If you want to contact me, you can use 
-  - <a href="https://www.linkedin.com/in/pauloba">https://www.linkedin.com/in/pauloba</a>
+⚀ From time to time I answer Stackoverflow questions <br>
+- <a href="https://stackoverflow.com/users/3009085/pauloba">https://stackoverflow.com/users/3009085/pauloba</a> <br>
+⚁ If you are interested in my career, my resume is available here <br>
+- <a href="https://pauloba.github.io">https://pauloba.github.io</a> <br>
+⚂ If you want to contact me, you can use <br>
+- <a href="https://www.linkedin.com/in/pauloba">https://www.linkedin.com/in/pauloba</a> <br>
