@@ -1,7 +1,8 @@
 ### Hi there! <br>
 
-<img src="https://github.com/pauloba/pauloba/blob/main/octogata.png" alt="kubernoia" style="width:50%;"> <br>
-
+<!---
+ <img src="https://github.com/pauloba/pauloba/blob/main/octogata.png" alt="kubernoia" style="width:50%;"> <br>
+-->
 - I am Paula a systems engineer specialized in Cloud.
 - I am currently living in the sunny Barcelona. 
 - From time to time I answer Stackoverflow questions <a href="https://stackoverflow.com/users/3009085/pauloba">www.stackoverflow.com/users/pauloba</a>
