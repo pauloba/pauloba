@@ -1,9 +1,9 @@
-### Hi there! <br>
+### Hi there! 🏴‍☠️<br>
 
 <!---
  <img src="https://github.com/pauloba/pauloba/blob/main/octogata.png" alt="kubernoia" style="width:50%;"> <br>
 -->
-### Hi there! 🏴‍☠️ 
+ 
 I am Paula, a Cloud engineer currently living in the sunny Barcelona.
 
 - I ocasionally play around with digital art <a href="https://pauloba.github.io/art.html">wallpapers</a>
