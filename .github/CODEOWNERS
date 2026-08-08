@@ -1,0 +1,14 @@
+# CODEOWNERS template — pushed to .github/CODEOWNERS on each repo by
+# harden-github-repo.sh (or via -c to point at a different file).
+#
+# Use your GitHub username (or a team, if applicable), not your email:
+#   @your-github-username
+#   @your-org/your-team-slug
+#
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+.github/workflows/*  @pauloba
+.github/actions/*    @pauloba
+Dockerfile           @pauloba
+package.json         @pauloba
+requirements.txt     @pauloba
